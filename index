@@ -8,7 +8,7 @@ Tutorial: https://www.youtube.com/watch?v=zxxB9SFh9p4
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Namora comigo?</title>
+    <title> Bonita, lerda e com problemas de dicção</title>
 </head>
 
 <body>
@@ -19,7 +19,7 @@ Tutorial: https://www.youtube.com/watch?v=zxxB9SFh9p4
             <button class="btn" onclick="desvia(this)" onmouseover="desvia(this)" style="position: absolute;">NÃO</button>
         </div>
     </div>
-</body>
+</body> 
 <style>
     #conteudo {
         background: #ff7a7a;
@@ -45,9 +45,9 @@ Tutorial: https://www.youtube.com/watch?v=zxxB9SFh9p4
 
 <script>
     function sim() {
-        alert("Beijin pra você <3 ");
+        alert("Beijin pra você <3 clica em ok ");
         // redireciona para um URL após clicar no SIM
-        location.href = "hhttps://www.youtube.com/watch?v=8ScAnaU0FFE";
+        location.href = "https://www.youtube.com/watch?v=kfxS6RPUpuU";
     }
 
     function desvia(btn) {
